@@ -27,5 +27,3 @@ Support low-impact development on varied or sensitive sites.
 Offer versatility: the same core design works for everyday living, holiday use, or specialised care settings.
 Reduce future retrofit costs — the home is already prepared for changing accessibility needs.
 This concept is offered as a free, open idea for anyone to use, modify, or develop further. It is not a complete technical specification — any real build requires professional structural engineering, site surveys, planning permission, and compliance with Building Regulations.
-This version keeps it broad and appealing while preserving the strong accessibility features.
-Would you like any further adjustments, or is this good to paste into your GitHub?
