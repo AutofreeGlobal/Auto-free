@@ -1,6 +1,4 @@
-Yes, that makes perfect sense.
-You're right to make it versatile — a "one design fits many uses" approach increases its chances of being adopted. The core strength (elevated low-impact platform + truly adaptable, hoist-ready shell) works for permanent homes, small estates, holiday lets / Airbnbs, or medical-focused hamlets.
-Here's the updated README with this versatility built in:
+
 Open Concept: Versatile Accessible Elevated Housing Model
 Core Idea
 A flexible, low-impact housing design for 4-bedroom homes that can be used in many ways: permanent family homes, small residential estates, holiday lets / Airbnbs, or clustered hamlets with optional health support. The design is future-proof and adaptable from day one, so it can easily serve different needs over time.
